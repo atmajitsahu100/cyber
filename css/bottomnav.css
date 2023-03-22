@@ -1,0 +1,37 @@
+.foot{
+    width: 1260px;
+    height: 90px;
+    position: relative;
+    top:151px;
+   background-color: rgb(8, 36, 36);
+   margin: 6px 0px 0px 0px;
+}
+
+.social-links{
+    width: 300px;
+  height: 70px;
+  position: absolute;
+  right: 5px;
+  top: 05px;
+}
+.fa-instagram{
+  position: absolute;
+  right: 0px;
+}
+.fa-twitter{
+  position: absolute;
+  right: 75px;
+}
+.fa-facebook{
+  position: absolute;
+  right: 150px;
+}
+.bot1{
+  width: 800px;
+  height: 30px;
+  position: relative;
+  top:120px;
+  color: rgb(185, 209, 209);
+  left: 230px;
+}
+

@@ -1,0 +1,59 @@
+.videos{
+    border: 2px solid rgb(235, 227, 227);
+    width:670px;
+    height: 600px;
+    position: relative;
+    top: 130px;
+    left: 70px;
+    overflow: scroll;
+}
+.md1{
+    position: relative;
+    left: 230px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(255, 255, 255, 0.64);
+}
+.audio1{
+    width: 540px;
+    height: 70px;
+position: relative;
+left: 100px;
+top:50px;
+}
+.audio1 audio{
+    width: 500px;
+}
+.audio2{
+    width: 540px;
+    height: 70px;
+position: relative;
+left: 100px;
+top:170px;
+}
+.audio2 audio{
+    width: 500px;
+}
+
+.audio3{
+    width: 540px;
+    height: 70px;
+position: relative;
+left: 100px;
+top:270px;
+}
+.audio3 audio{
+    width: 500px;
+}
+.audio4{
+    width: 540px;
+    height: 70px;
+position: relative;
+left: 100px;
+top:370px;
+}
+.audio4 audio{
+    width: 500px;
+}
+.a11{
+    color: aqua;
+}

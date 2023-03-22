@@ -1,0 +1,32 @@
+.end{
+    display: flex;
+    flex-direction: row;
+position: relative;
+top: 150px;
+background-color: rgb(240, 218, 218);
+}
+.a12{
+    margin: 0px 100px;
+    padding: 10px 1px;
+
+}
+.a13{
+    margin: 0px 100px;
+    padding: 10px 1px;
+}
+.a13 img{
+width: 160px;
+}
+.a121{
+    margin: 0px 100px;
+    padding: 10px 1px;
+    width: 170px;
+}
+.twandvd{
+    display: flex;
+    flex-direction: row;
+}
+.tweet{
+    border: 2px solid red;
+    left: 300px;
+}
