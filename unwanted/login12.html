@@ -105,18 +105,27 @@ button:hover{
 			<div class="signup">
 				<form>
 					<label for="chk" aria-hidden="true">Sign up</label>
-					<input type="password" name="psd" placeholder="Password" required="">
-					<button id="myButton1">Next</button>
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Password" required="">
+					<button id="myButton">Next</button>
+				</form>
+			</div>
+
+			<div class="login">
+				<form>
+					<label for="chk" aria-hidden="true">Login</label>
+					<input type="email" name="email" placeholder="Email" required="">
+					<input type="password" name="pswd" placeholder="Password" required="">
+					<button>Login</button>
 				</form>
 			</div>
 	</div>
-	<!-- <iframe id="myFrame" src="/otp.html"></iframe> -->
-	<!-- <button type="button" onClick="document.getElementById('frametest').src='otp.html'"> change iframe </button> -->
-<script>
-	    document.getElementById("myButton1").onclick = function () {
-    location.href = "./otp.html";
-};
+    <script>
+            document.getElementById("myButton").onclick = function () {
+        location.href = "./otp.html";
+    };					
 
-</script>
+
+    </script>
 </body>
 </html>
